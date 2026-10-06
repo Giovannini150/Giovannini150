@@ -4,7 +4,6 @@
 
 Atualmente estou construindo minha base em **lógica de programação, desenvolvimento de sistemas e engenharia de software**, enquanto começo a explorar tecnologias utilizadas no mercado.
 
-🐍 Atualmente estudando **Python** e desenvolvendo projetos para colocar meus conhecimentos em prática.
 
 ## 🚀 Atualmente
 

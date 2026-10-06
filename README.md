@@ -56,5 +56,3 @@ O **Omni** é uma solução de atendimento interno baseada em Inteligência Arti
 </a>
 
 ---
-
-*Aprendendo na prática, criando projetos e evoluindo todos os dias.*

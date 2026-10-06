@@ -1,53 +1,48 @@
-# Olá, eu sou o Miguel! 👋
+# 👋 Olá! Eu sou o Miguel
 
-🎓 Estudante de Desenvolvimento de Sistemas
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na FATEC Araraquara.
 
-Atualmente estou construindo minha base em **lógica de programação, desenvolvimento de sistemas e engenharia de software**, enquanto começo a explorar tecnologias utilizadas no mercado.
+Estou desenvolvendo meus conhecimentos em **programação, desenvolvimento de sistemas e engenharia de software**, buscando transformar o que aprendo em projetos práticos e conhecer cada vez mais as tecnologias utilizadas no mercado.
 
+## 💻 O que estou aprendendo
 
-## 🚀 Atualmente
+Atualmente, meu principal foco é:
 
-* 🐍 Estudando Python
-* 💻 Aprendendo desenvolvimento de sistemas
-* 🧠 Fortalecendo minha lógica de programação
-* ⚙️ Conhecendo conceitos de engenharia de software
-* 🤖 Desenvolvendo o projeto **Omni**
+* 🐍 **Python**
+* 🧠 Lógica de programação
+* ⚙️ Desenvolvimento de sistemas
+* 🏗️ Engenharia de software
 
-## 🤖 Projeto atual
+## 🛠️ Ferramentas
 
-**Omni** — Atendimento inteligente e triagem automatizada de chamados de TI.
+* Git
+* GitHub
+* VS Code
 
-Uma solução baseada em Inteligência Artificial para auxiliar funcionários na resolução e direcionamento de solicitações de TI.
+## 🚀 Projeto em destaque
 
-Atualmente utilizando:
+### 🤖 Omni — Atendimento inteligente de TI
+
+Projeto desenvolvido no **Projeto Integrador da FATEC Araraquara**.
+
+O **Omni** é uma solução de atendimento interno baseada em Inteligência Artificial. A proposta é auxiliar funcionários em solicitações de TI, oferecendo orientação para problemas simples e realizando a triagem e o encaminhamento dos chamados quando necessário.
+
+**Principais tecnologias e conceitos:**
 
 * Python
-* Git / GitHub
-* VS Code
 * Ollama
 * Qwen
 * KEV
+* Inteligência Artificial
+* Git e GitHub
+* Engenharia de Software
 
-## 🛠️ Tecnologias
+🔗 **[Conheça o projeto](https://github.com/Giovannini150)**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
-</p>
+## 📫 Vamos nos conectar?
 
-## 📫 Contato
-
-<a href="mailto:giovanninimiguelricardo@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/miguel-ricardo-giovannini-40a6a3361/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/Giovannini150">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
+[📧 E-mail](mailto:giovanninimiguelricardo@gmail.com) · [💼 LinkedIn](https://www.linkedin.com/in/miguel-ricardo-giovannini-40a6a3361/) · [🐙 GitHub](https://github.com/Giovannini150)
 
 ---
 
-*Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.*
+*Aprendendo na prática, criando projetos e evoluindo todos os dias.*
